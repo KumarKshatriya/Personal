@@ -1,4 +1,10 @@
-# Code Assesment
+# Code Assesment.
+
+Please find the solution links:
+Longest word:
+https://codeinterview.io/FNOSTTEZFY
+Shortest Word:
+https://codeinterview.io/OSNCLVNIJV
 
 Question Asked:
 /*

@@ -1,6 +1,6 @@
 # Code Assesment.
 
-Please find the solution links:
+Please find the solution links-->Click the link and then -->Click Run button: Responses will be on the right side window:
 Longest word:
 https://codeinterview.io/FNOSTTEZFY
 Shortest Word:
